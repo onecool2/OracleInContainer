@@ -1,6 +1,6 @@
 From local/c7-systemd
 
-MAINTAINER alex
+MAINTAINER onecool2
 
 
 #RUN yum install binutils compat-libcap1.x86_64 compat-libstdc++-33 elfutils-libelf elfutils-libelf-devel gcc gcc-c++ glibc glibc-common glibc-devel glibc-headers ksh libaio libaio-devel libgcc libstdc++ libstdc++-devel make sysstat unixODBC unixODBC-devel kmod-oracleasm.x86_64  -y 
