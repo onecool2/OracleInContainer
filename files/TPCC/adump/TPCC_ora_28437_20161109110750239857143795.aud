@@ -1,0 +1,25 @@
+Audit file /oradata/oracle/oracle/app/oracle/admin/TPCC/adump/TPCC_ora_28437_20161109110750239857143795.aud
+Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+ORACLE_HOME = /oradata/oracle/oracle/app/oracle/product/11.2.0/dbhome_1
+System name:	Linux
+Node name:	localhost.localdomain
+Release:	3.10.0-327.el7.x86_64
+Version:	#1 SMP Thu Nov 19 22:10:57 UTC 2015
+Machine:	x86_64
+VM name:	VMWare Version: 6
+Instance name: TPCC
+Redo thread mounted by this instance: 0 <none>
+Oracle process number: 0
+Unix process pid: 28437, image: oracle@localhost.localdomain
+
+Wed Nov  9 11:07:50 2016 -05:00
+LENGTH : '154'
+ACTION :[7] 'STARTUP'
+DATABASE USER:[1] '/'
+PRIVILEGE :[4] 'NONE'
+CLIENT USER:[4] 'grid'
+CLIENT TERMINAL:[13] 'Not Available'
+STATUS:[1] '0'
+DBID:[0] ''
+

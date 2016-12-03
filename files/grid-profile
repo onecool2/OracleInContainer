@@ -1,0 +1,9 @@
+export ORACLE_BASE=/oradata/oracle/grid/    
+export ORACLE_HOME=/oradata/oracle/grid/product/11.2.0/grid
+export ORACLE_SID=+ASM
+export ORACLE_UNQNAME=+ASM
+PATH=$ORACLE_HOME/bin:/usr/bin:/bin:/usr/bin/X11:/usr/local/bin:$PATH
+PATH=/usr/bin:/bin:/usr/bin/X11:/usr/local/bin:$PATH
+export PATH
+NLS_DATE_FORMAT='YYYY-MM-DD:hh24:mi:ss'; export NLS_DATE_FORMAT
+NLS_LANG=american; export NLS_LANG
