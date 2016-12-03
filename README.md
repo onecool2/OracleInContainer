@@ -1,17 +1,17 @@
 OracleInContainer is  install oracle binary and setup database 
 
 ### Features
-* ** Installer Oracle grid **
-* ** Installer Oracle binary **
-* ** Setup Oracle database(beta version) **
+* **Installer Oracle grid**
+* **Installer Oracle binary**
+* **Setup Oracle database(beta version)**
 
 
 ### Install & Run
-**System requirements:**
+**System requirements**:
 
 **On Centos7: docker 1.10.0+**
 
-Download binaries of 
+Download binaries of:
          **linux.x64-oracle11g-grid_11.2.0.4.tgz**
          **linux.x64-oracle11g-part1-11.2.0.4.0.zip**
          **linux.x64-oracle11g-part2-11.2.0.4.0.zip**
